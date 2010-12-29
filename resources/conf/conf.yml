@@ -1,0 +1,8 @@
+---
+# 初期画面の表示を行う
+- path: /test
+  action: src::action::TestAction
+  method: doList
+  form: jp::coocan::la::estructura::aframe::ActionForm
+  validate: 0
+  tmpl: ../resources/tmpl/test.tmpl

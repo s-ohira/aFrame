@@ -1,0 +1,5 @@
+sql: mysql:oneliner
+path: localhost:3306
+acount: root
+pass: pass
+
